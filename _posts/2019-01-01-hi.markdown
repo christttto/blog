@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Just finding out how to use jekyll"
+date:   2019-01-01 14:59:35 -0800
+categories: jekyll update
+permalink: /:categories/:year/:month/:day/:title
+---
+
+bear with me :]
