@@ -41,3 +41,6 @@ layout: post
 5. handshake
 6. angel
 7. 
+
+20:00 - 21:00  
+handshake profile을 만드는 중  
