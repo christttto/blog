@@ -44,3 +44,6 @@ layout: post
 
 20:00 - 21:00  
 handshake profile을 만드는 중  
+
+-23:00
+밥먹고 영화보고  
