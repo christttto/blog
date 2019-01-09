@@ -11,3 +11,6 @@ What I can be positive about, is that I got it work.
 When I first read the problem, I did not think I could solve the problem.  
 It looked too hard, but I got to pass the basic test.  
 It is a lesson for me.  
+  
+Oh, another video filmed. I will work on it tomorrow at the library.  
+Will have to take my external, and pin to take out the sd card.
