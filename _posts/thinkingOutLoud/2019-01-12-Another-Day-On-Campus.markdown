@@ -7,7 +7,7 @@ eh, I'm here.
 I could be doing couple of stuff.  
 
 1. portfolio  
-	*Need it working, because there is contact track to it.
+	* Need it working, because there is contact track to it.
 2. job search  
 	Should be going on constantly
 3. react  
