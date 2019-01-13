@@ -16,4 +16,6 @@ I could be doing couple of stuff.
 	Need to have it up and running asap
 5. platform
 	Need it eventually
-6. 
+
+post edit: Ended up doing work on CNN, needed to get the examples running.  
+Plans made for portfolio as well.  

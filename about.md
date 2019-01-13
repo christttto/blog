@@ -6,7 +6,6 @@ permalink: /about/
 
 
 
-
 C#, Java  
 HTML, JS, CSS  
 React, SQL
