@@ -4,3 +4,8 @@ layout:post
 
 Came to library.  
 It's something.  
+I am reviewing react lecture I covered before, because it has been just too long.  
+  
+
+
+Doing the beginning tasks to remind myself.
