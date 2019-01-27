@@ -8,4 +8,5 @@ I am reviewing react lecture I covered before, because it has been just too long
   
 
 
-Doing the beginning tasks to remind myself.
+Doing the beginning tasks to remind myself.  
+learned up to exercise 8, where I am making seperate component js files and exporting.  
