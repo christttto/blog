@@ -2,4 +2,13 @@
 layout: post
 ---
 
-testest
+testest.  
+the generated blog had interesting error where I showed two rows of 1/28 post, and the first was empty.  
+Later found out that layout: post must have a space in between for markdown processor to understand.  
+So I thought I fixed everything, but turns out one of the post (1/21) did not have that fixed.  
+As a result, for some reason, the 1/28 post showed two rows.  
+The way I approached to fix the issue was with chrome devtool.  
+I did not think it would find the problem directly, but at least, I could see the generated html that could give me a lead.  
+  
+
+Lesson learned is that I should go watch how my post has been generated, and always be thankful of the power of good devtool. yee.
