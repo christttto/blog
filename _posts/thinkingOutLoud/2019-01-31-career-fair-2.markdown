@@ -12,4 +12,6 @@ I feel like this is an okay occasion to be making edit to keep the attendance.
 Have an interview tomorrow, should be getting prepared for!
 
 
+
+
 Fri Feb 1 00:18:34 2019 -0800
