@@ -14,3 +14,5 @@ I could
   2. apply
   3. tensorflow work
 
+Think I will apply for an hour, work on tensorflow for two.  
+If I stay longer at library, will work on the portfolio.  
