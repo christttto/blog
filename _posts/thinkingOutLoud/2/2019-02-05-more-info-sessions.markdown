@@ -16,3 +16,9 @@ I could
 
 Think I will apply for an hour, work on tensorflow for two.  
 If I stay longer at library, will work on the portfolio.  
+  
+
+Been hour and half more or less.  
+Have applied and followed up with most of the talks from the career fair.  
+Now to tensorflow work!  
+Should be proud that I got some work done! :]
