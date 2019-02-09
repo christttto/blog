@@ -10,3 +10,4 @@ I need something made in react that can be presented through my github repositor
 Did some react learning, got up to 23.  
 mapping function syntax sounds somewhat confusing, especially with arrow function, but looks very useful.  
 Baby steps for big boy stuff.  
+Finished the todo project, starting to get into class now.  
