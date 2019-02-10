@@ -28,3 +28,5 @@ But I might be at point where I am too drained to be getting new material down.
 Aim for tomorrow is to get the Todo application project on react finished, even that requires re-watching about 3 steps behind how far I watched.  
 With 15 minutes left before library closes, I will just solve mind your decision problems.  
 Too drained I want to say.  
+  
+Today I have been productive for 3:33
