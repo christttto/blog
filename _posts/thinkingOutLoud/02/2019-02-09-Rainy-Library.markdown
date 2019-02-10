@@ -21,3 +21,10 @@ Options to do other studying.
   1. portfolio
   2. leetcode
   3. application
+
+So, ended up working more with leetcode.  
+It was definately less sleepy.  
+But I might be at point where I am too drained to be getting new material down.  
+Aim for tomorrow is to get the Todo application project on react finished, even that requires re-watching about 3 steps behind how far I watched.  
+With 15 minutes left before library closes, I will just solve mind your decision problems.  
+Too drained I want to say.  
