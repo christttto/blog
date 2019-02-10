@@ -15,3 +15,9 @@ It is better that I am becoming aware.
 It is better that I am studying.  
 But, I have to be even better.  
 Get closer to more efficient work.  
+  
+Second thought, I might have done too much of react for a day, without much time for it to sink down.  
+Options to do other studying.  
+  1. portfolio
+  2. leetcode
+  3. application
