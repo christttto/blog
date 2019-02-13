@@ -15,3 +15,7 @@ Then again, another part of me keeps on saying that there must be a job that I c
 
 Well, for now, I will just focus on studying react.  
 I am proud that the number 38 worked, where I needed to demonstrate ability to code using conditional rendering.  
+  
+
+Got to work some at the library. Had some snack, came to lounge of someone's place.  
+Getting more of react cirriculum done.  
