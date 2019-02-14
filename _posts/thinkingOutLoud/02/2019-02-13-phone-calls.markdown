@@ -14,3 +14,7 @@ I'll continue to stare at the course.
 
 Not sure why, but today feels very dreamy. I am awake, but feels very flowy.  
 Studying react's form aspect, still hard to get used to. Practice will make it better.  
+  
+
+Had early dinner, came to library.  
+Got up to 44 of the react tutorial.  
