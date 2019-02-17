@@ -17,4 +17,4 @@ Studying react's form aspect, still hard to get used to. Practice will make it b
   
 
 Had early dinner, came to library.  
-Got up to 44 of the react tutorial.  
+Got up to 44 of the react tutorial.
