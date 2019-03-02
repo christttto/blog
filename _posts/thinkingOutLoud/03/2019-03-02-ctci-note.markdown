@@ -1,0 +1,18 @@
+---
+layout: post
+---
+  
+
+189 questions....  
+# The interview process  
+Talk out loud and explain my thought process  
+The interviewer, by the end, will just have gut feeling how I did.  
+1. Analytical skills:  
+	did I need much help  
+	how optimal was it  
+	how long did I take  
+	if I had to design / architect a new solution, did I structure the problem well and think through the tradeoffs of different decisions?
+2. Coding skills:  
+3. Technical knowledge / Computer Science fundamentals:  
+4. Experience:  
+5. Culture fit / Communication skills:  
