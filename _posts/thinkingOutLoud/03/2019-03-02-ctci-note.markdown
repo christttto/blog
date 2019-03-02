@@ -13,6 +13,16 @@ The interviewer, by the end, will just have gut feeling how I did.
 	how long did I take  
 	if I had to design / architect a new solution, did I structure the problem well and think through the tradeoffs of different decisions?
 2. Coding skills:  
+	successfully translate your algorithm to reasonable code?  
+	clean and organized?  
+	did I think about potential error  
+	good style  
 3. Technical knowledge / Computer Science fundamentals:  
+	strong foundation in computer science and relevant technologies  
 4. Experience:  
+	good technical decisions in the past?  
+	built interesting, challenging proejcts  
+	drive, initiative, important factors?  
 5. Culture fit / Communication skills:  
+	Personality and value fit the company and the team?  
+	Well communicated with the interviewer?  
