@@ -26,3 +26,31 @@ The interviewer, by the end, will just have gut feeling how I did.
 5. Culture fit / Communication skills:  
 	Personality and value fit the company and the team?  
 	Well communicated with the interviewer?  
+
+Interview is not perfect, but it works. Good candidates don't do well, but most will.  
+False positive is worse.  
+  
+
+Relativity.  
+If the problem is hard, it is hard for all of us.  
+What than matters is how I approached and how I got around, how I kept the tension well.  
+If I compare better than others, it is still good.  
+  
+There is bar raiser interviewers, who will make interview harder. Most likely, they are the experienced and powerful ones, so keep that in mind and even for harder problem, show the thought process well.  
+
+Amazon cars for scalability, ood.  
+
+Google: very structured, scored in the categories of: analytical ability, coding experience, communication.  
+Need at least one enthusiastic endorser. One person who calls out with strong opinion.  
+System design and scalability, algorithm.  
+  
+Apple.
+
+
+
+
+
+
+
+
+
