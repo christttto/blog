@@ -64,6 +64,18 @@ notes for common JS problems.
 	let x = obj()
 	x.setI(2)
 	console.log(x.getI()) //returns 2
+  
+
+
+
+When asked to solve problem, do not just jump.  
+That is a wrong way, with trap.  
+  
+I need to understand what the interviewer is asking.  
+Try to clearify, to prove thinking process.  
+  
+give them what you will do.  
+
 
 
 
