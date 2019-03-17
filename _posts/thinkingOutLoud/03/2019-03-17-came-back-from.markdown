@@ -28,3 +28,10 @@ Know that the velocity, the momentum I am getting has got me this much.
 I have to keep trying, keep moving.  
   
 And we go.  
+  
+
+16:03 Got some ground work done  
+What to do next!  
+1. Figma tutorial  
+2. refactorization of portfolio page  
+3. Leetcode  
