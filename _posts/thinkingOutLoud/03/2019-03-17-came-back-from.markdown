@@ -18,3 +18,13 @@ Little more on self-critique:
 I think the biggest problem is, I solve a question.  
 But there is no retaining the knowledge.  
 I have to remember how I got to the answer, formulated.  
+  
+Communicating with the interviewer has improved I feel like.  
+But the biggest thing is I have to create chart, and almost 오답노트  
+to trace back where I am most weak on.  
+Of course, this was a big chance, but I cannot forever be down.  
+I have to move on.  
+Know that the velocity, the momentum I am getting has got me this much.  
+I have to keep trying, keep moving.  
+  
+And we go.  
