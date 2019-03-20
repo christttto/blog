@@ -1,0 +1,15 @@
+---
+layout: post
+---
+  
+
+
+Going through more leetcode problems.  
+I think I had some improvements in terms approaching the problem.  
+Think of naive way of solving the problem.  
+Try to notice a pattern.  
+Think about easier cases, make abstraction.  
+For easier cases, see how it can be simplified.  
+Overcome!  
+  
+As for hackathon goes, I will keep working on the project.  
