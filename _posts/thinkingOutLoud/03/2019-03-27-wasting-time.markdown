@@ -14,3 +14,30 @@ What I understand is that I can create nested properties and the real-time sass 
 CSS also has function ability that allows me to create custom function.  
 In case of window size, it allows me to create breakpoint to get the margin issue working.  
 I still have to understand how font size like em works.  
+  
+
+
+Now to node.  
+Node is javascript without browser, to create back-end.  
+  
+
+Architecture of node.  
+Runtime environment?
+	because of different engine for each browser, it may function differently.  
+Ryan Dahl thought if js browser could be run not on browser, but somewhere else.  
+  
+
+Node: V8 + etc to run js and more.  
+Node is not language.  
+Runtime environment to execute javascript.  
+(그러니까 언어를 돌린다).  
+  
+
+Asynchornous work by node.  
+Single thread is used to handle multiple objects.  
+  
+it could be blocked synchornous too. In this case, works with the server and does nothing but waits.  
+It will not do something else.  
+(How asp.net or rails works by default)  
+   
+One thread per client with synchronous runtime.  
