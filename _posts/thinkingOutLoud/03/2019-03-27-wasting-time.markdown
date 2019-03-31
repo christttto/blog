@@ -41,3 +41,9 @@ It will not do something else.
 (How asp.net or rails works by default)  
    
 One thread per client with synchronous runtime.  
+  
+However, by default, node will have asynchronous environment.  
+This is called eventqueue.  
+Reason why it is I/O intensive works are good.  
+  
+Good for data intensive, real-time stuff.  
