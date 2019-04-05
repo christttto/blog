@@ -14,4 +14,5 @@ Not sure what I want to create.
 It will be hard, I will have to learn a lot.  
 But, it will prove how I am worth investment.  
 It will be a good replacement for the project section of the resume.  
-I will make react native for both mobile and web application!
+I will make react native for both mobile and web application!  
+Oh, last date change for Friday.  
