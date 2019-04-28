@@ -24,3 +24,8 @@ CRUD Apps - Blogs, shopping carts, social networks
 Tools & utilities  
   
 NPM - Node package managers  
+  
+
+The reason why in node, we do require and not import like how we do in react, is because it is not yet implemented.  
+For this, babel, compiler for es6 is required.  
+
