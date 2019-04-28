@@ -28,4 +28,12 @@ NPM - Node package managers
 
 The reason why in node, we do require and not import like how we do in react, is because it is not yet implemented.  
 For this, babel, compiler for es6 is required.  
+  
 
+This is called common js, where we import a file using require.  
+The import way is ES6 way.  
+  
+
+Path module.  
+Used to work with fire directories.  
+Path.join is useful because regardless of being mac or windows, uses back or foward slash accordingly.
