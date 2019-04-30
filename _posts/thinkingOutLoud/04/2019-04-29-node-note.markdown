@@ -1,0 +1,15 @@
+---
+layout: post
+---
+  
+
+public folder contains static files.  
+Router will contain router logic  
+views will represent html file  
+bin will contain setup  
+app.js entry file  
+package - recepie.  
+  
+
+20:00  
+Installing nodemon.  

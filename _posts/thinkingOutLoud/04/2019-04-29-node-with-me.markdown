@@ -41,9 +41,12 @@ Path.join is useful because regardless of being mac or windows, uses back or fow
 
 So fs writeFile overwrites  
   
-
+  
 So on os if you do platform(), you will get darwin for os.  
+  
+  
+  
+added Nodemon to the json package to package script with dev, to let me restart server everytime change has been made  
   
 
 
-added Nodemon to the json package to package script with dev, to let me restart server everytime change has been made
