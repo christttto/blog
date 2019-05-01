@@ -1,0 +1,12 @@
+---
+layout: post
+---
+  
+
+Reverse a linked list  
+  
+1->2->3->4  
+  
+Make a helper recursion that will take the tail object, additional to the head.  
+First, put null for tail, than have a temp node to let head re-orient and use the temp  
+to call the next function with edited head as tail.  

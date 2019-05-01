@@ -13,3 +13,16 @@ package - recepie.
 
 20:00  
 Installing nodemon.  
+  
+
+28:48  
+Installing postgres for making db.  
+run postgres behind.  
+brew services start postgresql  
+
+29:22  
+db creating.  
+
+36:06  
+Setup over, linking the sequelize  
+sequelize db:migrate  
