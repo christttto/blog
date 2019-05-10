@@ -17,6 +17,7 @@ Like Angular is framework for JS.
 #### What is Angular  
 A client-Side(Browser) Framework which allows you to build Single-Page-Applications(SPA)  
 It means that it will handle entire front end logic.  
+
 Render UI with Dynamic Data.  
 	It updates the UI whenever data updates.  
 Handle User Input.  
@@ -26,3 +27,4 @@ Provides a "Mobile App"-like User Experience
 	Instead of refreshing the entire page, it changes only the parts of a page.  
   
 #### What is Node  
+A Server-side Library: JavaScript 
