@@ -108,6 +108,11 @@ Handling Data with MongoDB
 Enhancing the App  
 Image Upload  
 Data Pagination  
+Authentication  
+Authorization  
+Error Handling  
+Optimization  
+Deployment  
 
 
 
