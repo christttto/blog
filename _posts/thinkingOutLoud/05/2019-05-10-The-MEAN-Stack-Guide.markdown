@@ -58,6 +58,13 @@ Enforces no Data Schema or Relations
 Easily connected to Node/ Express (NOT to Angular!)  
 A powerful Database which can easily be integrated into a Node/ Express Environment.  
   
+  
+
+### 3 What is a Single Page Application (SPA)  
+  
+In Angular, we will have root index.html page, and it will include script input for angular application.  
+	This is to re-render.  
+
 
 
 
