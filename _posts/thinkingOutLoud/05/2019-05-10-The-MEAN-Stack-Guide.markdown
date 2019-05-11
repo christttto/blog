@@ -27,4 +27,39 @@ Provides a "Mobile App"-like User Experience
 	Instead of refreshing the entire page, it changes only the parts of a page.  
   
 #### What is Node  
-A Server-side Library: JavaScript 
+A Server-side Library: JavaScript on the Server-side  
+  
+Listen to Requests and Send Responses  
+  
+Execute Server-side Logic  
+  
+Interact with Databases and Files  
+  
+An Alternative to PHP, Ruby on Rails, Java etc. It is rarely used Standalone!  
+  
+#### What is Express  
+A Node Framework which simplifies writing Server-side Code and Logic.  
+  
+Based on Node, offers same Functionalities  
+  
+Middleware-based: Funnel Requests through Functions  
+  
+Includes Routing, View-rendering & More.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
