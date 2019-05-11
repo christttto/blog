@@ -88,6 +88,12 @@ front end receives JSON format for data.
 ### 6 Installing Node & the Angular CLI  
   
 ### 8 Learning the file structure.  
+  
+package.json shows the dependencies.  
+config is here.  
+e2e: End to end testing.  
+node_modules: where the dependencies are installed.  
+when npm install is ran in the directory, everything of the package.json file is being downloaded into node_modules directory.  
 
 
 
