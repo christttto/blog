@@ -64,6 +64,10 @@ A powerful Database which can easily be integrated into a Node/ Express Environm
   
 In Angular, we will have root index.html page, and it will include script input for angular application.  
 	This is to re-render.  
+This allows for instant re-rendering, instant user feedback and makes building highly engaging UIs possible.  
+  
+### 4 How does the MEAN Stack work?  
+  
 
 
 
