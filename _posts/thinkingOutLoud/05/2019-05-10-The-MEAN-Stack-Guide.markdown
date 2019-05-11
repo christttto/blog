@@ -100,7 +100,7 @@ where the meat is.
   
 During the development, ng serve should be running to refresh when we make changes.  
 
-### Course Outline  
+### 9 Course Outline  
 Getting started  
 Angular Frontend  
 Node.js + Express Backend  
@@ -113,7 +113,15 @@ Authorization
 Error Handling  
 Optimization  
 Deployment  
-
+  
+### 10 Getting the most out of the course  
+  
+Watch the videos  
+	At your speed! Pause & Rewind!  
+Code Along  
+Use the course Resources  
+	Attached Code & Links  
+Ask in Q&A  
 
 
 
