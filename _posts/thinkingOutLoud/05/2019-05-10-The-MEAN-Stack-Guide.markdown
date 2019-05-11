@@ -94,6 +94,20 @@ config is here.
 e2e: End to end testing.  
 node_modules: where the dependencies are installed.  
 when npm install is ran in the directory, everything of the package.json file is being downloaded into node_modules directory.  
+  
+src has app.  
+where the meat is.  
+  
+During the development, ng serve should be running to refresh when we make changes.  
+
+### Course Outline  
+Getting started  
+Angular Frontend  
+Node.js + Express Backend  
+Handling Data with MongoDB  
+Enhancing the App  
+Image Upload  
+Data Pagination  
 
 
 
