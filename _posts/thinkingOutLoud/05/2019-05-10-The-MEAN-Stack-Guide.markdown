@@ -122,7 +122,8 @@ Code Along
 Use the course Resources  
 	Attached Code & Links  
 Ask in Q&A  
-
+Help others in Q&A  
+	Answering is harder, so it will help you learn.  
 
 
 
