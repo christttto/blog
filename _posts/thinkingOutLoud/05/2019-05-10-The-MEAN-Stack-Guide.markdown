@@ -46,7 +46,18 @@ Middleware-based: Funnel Requests through Functions
   
 Includes Routing, View-rendering & More.  
   
-Simplifies the Usage of Node. Express is for Node what Laravel would be for PHP.
+Simplifies the Usage of Node. Express is for Node what Laravel would be for PHP.  
+  
+#### MongoDB  
+A NoSQL Database which stores "Documents" in "Collections" (instead of "Records" in "Tables" as in SQL).  
+  
+Store Application Data (Users, Products, ...)  
+  
+Enforces no Data Schema or Relations  
+  
+Easily connected to Node/ Express (NOT to Angular!)  
+A powerful Database which can easily be integrated into a Node/ Express Environment.  
+
 
 
 
