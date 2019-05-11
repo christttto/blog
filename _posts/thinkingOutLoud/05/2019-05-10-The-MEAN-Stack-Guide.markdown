@@ -83,6 +83,11 @@ Node Express MongoDB
 Ajax handles requests and responses between the two sides.  
   
 front end receives JSON format for data.  
+  
+
+### 6 Installing Node & the Angular CLI  
+  
+### 8 Learning the file structure.  
 
 
 
