@@ -45,6 +45,8 @@ Based on Node, offers same Functionalities
 Middleware-based: Funnel Requests through Functions  
   
 Includes Routing, View-rendering & More.  
+  
+Simplifies the Usage of Node. Express is for Node what Laravel would be for PHP.
 
 
 
