@@ -57,7 +57,7 @@ Enforces no Data Schema or Relations
   
 Easily connected to Node/ Express (NOT to Angular!)  
 A powerful Database which can easily be integrated into a Node/ Express Environment.  
-
+  
 
 
 
