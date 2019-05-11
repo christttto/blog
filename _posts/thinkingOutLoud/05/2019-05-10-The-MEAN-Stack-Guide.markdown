@@ -68,6 +68,22 @@ This allows for instant re-rendering, instant user feedback and makes building h
   
 ### 4 How does the MEAN Stack work?  
   
+Client side VS Server  
+Angular  
+	Presentation/ UI  
+	Single-Page-Application  
+		Does not have to be served by Node Backend.  
+  
+Node Express MongoDB  
+	Business Logic (not shown to client)  
+	Persistent Data Storage  
+	Authentification  
+  
+  
+Ajax handles requests and responses between the two sides.  
+  
+front end receives JSON format for data.  
+
 
 
 
